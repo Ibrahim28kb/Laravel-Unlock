@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark probootstrap-navabr-dark">
     <div class="container">
-      <a class="navbar-brand" href="index.html">Ibr@him</a>
+      <a class="navbar-brand" href="{{url('/')}}">IBR@HIM</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#probootstrap-nav" aria-controls="probootstrap-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
